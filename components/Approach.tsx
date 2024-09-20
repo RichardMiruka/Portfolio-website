@@ -13,11 +13,11 @@ const Approach = () => {
             <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
                 {/* add des prop */}
                 <Card
-                    title="Planning & Strategy"
+                    title="Backend Architecture & Planning"
                     icon={<AceternityIcon order="Phase 1" />}
-                    des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+                    des="In the initial phase, I focus on understanding the project requirements,
+                     designing the backend architecture, and planning database structures, API endpoints and server setup. 
+                    The focus is on scalability, performance, and security to ensure the application is built on solid foundations."
                 >
                     <CanvasRevealEffect
                         animationSpeed={5.1}
@@ -26,11 +26,11 @@ const Approach = () => {
                     />
                 </Card>
                 <Card
-                    title="Development & Progress Update"
+                    title="API Development & Database Integration"
                     icon={<AceternityIcon order="Phase 2" />}
-                    des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+                    des="This phase focuses on the implementation of RESTful APIs or GraphQL, managing databases like MongoDB or PostgreSQL,
+                    and ensuring seamless communication between the frontend and backend. Regular updates and progress reports keep
+                    you informed on the development."
                 >
                     <CanvasRevealEffect
                         animationSpeed={3}
@@ -48,11 +48,11 @@ const Approach = () => {
                     {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
                 </Card>
                 <Card
-                    title="Development & Launch"
+                    title="Deployment & Performance Optimization"
                     icon={<AceternityIcon order="Phase 3" />}
-                    des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+                    des="In the final phase, I handle server deployment (using platforms like AWS, Heroku, or DigitalOcean), 
+                    optimize performance, and ensure the backend is secure and ready for production.
+                    This includes setting up CI/CD pipelines for smooth and automated releases."
                 >
                     <CanvasRevealEffect
                         animationSpeed={3}
