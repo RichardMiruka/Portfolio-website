@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Richard's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Richard is the ideal partner.",
+        name: "Dr Michael Munyao",
+        title: "Data Science Instructor - Kenyatta University",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Richard's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Richard is the ideal partner.",
+        name: "Job Kipkirui Koech",
+        title: "Backend Software Engineer",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Richard's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Richard is the ideal partner.",
+        name: "Sarah Mumbua",
+        title: "Frontend Software Engineer",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Richard's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Richard is the ideal partner.",
+        name: "Sharoun Agamu",
+        title: "Frontend Software Engineer",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        name: "Paul Mihango",
+        title: "Frontend Software Engineer",
     },
 ];
 
@@ -152,7 +152,7 @@ export const companies = [
     },
     {
         id: 3,
-        name: "HOSTINGER",
+        name: "SAFARICOM",
         img: "/host.svg",
         nameImg: "/hostName.svg",
     },
