@@ -9,7 +9,7 @@ export const gridItems = [
     {
         id: 1,
         title: "I prioritize client collaboration, fostering open communication ",
-        description: "",
+        description: "I ensure alignment between technical solutions and client goals, using clear, open communication throughout the development process.",
         className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
         imgClassName: "w-full h-full",
         titleClassName: "justify-end",
@@ -29,7 +29,7 @@ export const gridItems = [
     {
         id: 3,
         title: "My tech stack",
-        description: "I constantly try to improve",
+        description: "I constantly try to improve & stay updated",
         className: "lg:col-span-2 md:col-span-3 md:row-span-2",
         imgClassName: "",
         titleClassName: "justify-center",
@@ -38,7 +38,7 @@ export const gridItems = [
     },
     {
         id: 4,
-        title: "Tech enthusiast with a passion for development.",
+        title: "Tech Enthusiast with a passion for backend architecture.",
         description: "",
         className: "lg:col-span-2 md:col-span-3 md:row-span-1",
         imgClassName: "",
@@ -49,8 +49,8 @@ export const gridItems = [
 
     {
         id: 5,
-        title: "Currently building a School Management Sytem",
-        description: "The Inside Scoop",
+        title: "I am currently building a School Management System",
+        description: "Dedicated to learning and implementing modern backend technologies that enhance user experiences. ",
         className: "md:col-span-3 md:row-span-2",
         imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
         titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -73,7 +73,7 @@ export const projects = [
     {
         id: 1,
         title: "3D Solar System Planets to Explore",
-        des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+        des: "A captivating 3D simulation leveraging Three.js. Built with a robust backend API to handle astronomical data efficiently.",
         img: "/p1.svg",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
         link: "/ui.earth.com",
@@ -81,7 +81,7 @@ export const projects = [
     {
         id: 2,
         title: "Yoom - Video Conferencing App",
-        des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+        des: "A seamless video conferencing platform. I developed the backend with NodeJS to ensure fast and secure real-time communications.",
         img: "/p2.svg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
         link: "/ui.yoom.com",
@@ -89,53 +89,55 @@ export const projects = [
     {
         id: 3,
         title: "AI Image SaaS - Canva Application",
-        des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+        des: "SaaS application featuring AI-powered tools. Built with Django and integrated a payment and credits system to enhance user experience.",
         img: "/p3.svg",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
         link: "/ui.aiimg.com",
     },
     {
         id: 4,
-        title: "Animated Apple Iphone 3D Website",
-        des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+        title: "Animated Apple iPhone 3D Website",
+        des: "Recreated the iPhone 15 Pro website using GSAP and Three.js for dynamic frontend effects, supported by a scalable backend with Flask.",
         img: "/p4.svg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
         link: "/ui.apple.com",
     },
 ];
 
+
 export const testimonials = [
     {
         quote:
-            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Richard's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Richard is the ideal partner.",
-        name: "Dr Michael Munyao",
+            "Working with Richard Miruka was a seamless experience. His expertise in backend development, especially with NodeJS, enabled us to scale our platform efficiently. Richard consistently delivered high-quality code, meeting our deadlines without compromise. His technical acumen and problem-solving skills were invaluable to the success of our project.",
+        name: "Dr. Michael Munyao",
         title: "Data Science Instructor - Kenyatta University",
     },
     {
         quote:
-            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Richard's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Richard is the ideal partner.",
+            "Richard is not just a developer, he's a problem-solver. His deep understanding of Django and Flask helped us overhaul our backend, improving both performance and security. He was highly responsive throughout the project, making sure every feature was optimized. I highly recommend him for any backend development needs.",
         name: "Job Kipkirui Koech",
         title: "Backend Software Engineer",
     },
     {
         quote:
-            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Richard's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Richard is the ideal partner.",
+            "Richard's professionalism and passion for development really shone during our collaboration. His expertise in API development using NodeJS allowed us to build a robust, scalable system that met all our requirements. I was impressed by his dedication and willingness to go the extra mile to ensure the project’s success.",
         name: "Sarah Mumbua",
         title: "Frontend Software Engineer",
     },
     {
         quote:
-            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Richard's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Richard is the ideal partner.",
+            "Collaborating with Richard was a fantastic experience. His skill in integrating complex backend systems, especially in Flask, was critical to the project's success. He brings both technical expertise and creativity, ensuring the best possible solution. I'd highly recommend him to anyone looking for a skilled backend developer.",
         name: "Sharoun Agamu",
         title: "Frontend Software Engineer",
     },
     {
         quote:
-            "Collaborating with Richard Miruka was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+            "Richard's approach to backend development is impressive. His mastery of Django helped us streamline our server-side processes, resulting in faster load times and a more reliable system. He's a developer who truly understands how to align technical solutions with business goals.",
         name: "Paul Mihango",
         title: "Frontend Software Engineer",
     },
 ];
+
 
 export const companies = [
     {
@@ -173,33 +175,34 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Frontend Engineer Intern",
-        desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+        title: "Software Engineer - Backend",
+        desc: "Led the backend development for the KIEP-SKIES Project, built and maintained the core API, and managed deployment pipelines using NodeJS, Django, and Flask.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
-        title: "Mobile App Dev - JSM Tech",
-        desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-        className: "md:col-span-2", // change to md:col-span-2
+        title: "Software Engineering Intern",
+        desc: "Contributed to backend and frontend development for iTalanta, following modern architecture practices and writing reusable code.",
+        className: "md:col-span-2",
         thumbnail: "/exp2.svg",
     },
     {
         id: 3,
-        title: "Freelance App Dev Project",
-        desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-        className: "md:col-span-2", // change to md:col-span-2
+        title: "Service Reliability Engineer",
+        desc: "Participated in the ALX Software Engineering Program, focusing on backend reliability and system architecture.",
+        className: "md:col-span-2",
         thumbnail: "/exp3.svg",
     },
     {
         id: 4,
-        title: "Lead Frontend Developer",
-        desc: "Developed and maintained user-facing features using modern frontend technologies.",
+        title: "Freelance Backend Developer",
+        desc: "Worked on various freelance projects, developing secure and scalable backend systems using Django, Flask, and NodeJS.",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
     },
 ];
+
 
 export const socialMedia = [
     {
